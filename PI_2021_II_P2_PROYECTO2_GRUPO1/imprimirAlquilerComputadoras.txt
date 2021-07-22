@@ -1,0 +1,1 @@
+usuario   Numero de MaquinaTiempo de uso       Costo

@@ -1,0 +1,1 @@
+Cuenta    Apellido        Nombre     Salario Base
