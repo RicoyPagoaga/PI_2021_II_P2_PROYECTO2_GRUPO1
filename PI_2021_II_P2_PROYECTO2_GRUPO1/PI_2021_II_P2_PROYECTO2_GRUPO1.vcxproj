@@ -119,6 +119,7 @@
     <ClInclude Include="Factura.h" />
     <ClInclude Include="Libro.h" />
     <ClInclude Include="Persona.h" />
+    <ClInclude Include="Prueba.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AlquilerLibro.cpp" />
@@ -131,6 +132,7 @@
     <ClCompile Include="Factura.cpp" />
     <ClCompile Include="Libro.cpp" />
     <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="Prueba.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
