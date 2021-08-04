@@ -118,6 +118,7 @@
     <ClInclude Include="EmpleadoTemporal.h" />
     <ClInclude Include="Factura.h" />
     <ClInclude Include="Libro.h" />
+    <ClInclude Include="New.h" />
     <ClInclude Include="Persona.h" />
     <ClInclude Include="Prueba.h" />
   </ItemGroup>
@@ -131,6 +132,7 @@
     <ClCompile Include="EmpleadoTemporal.cpp" />
     <ClCompile Include="Factura.cpp" />
     <ClCompile Include="Libro.cpp" />
+    <ClCompile Include="New.cpp" />
     <ClCompile Include="Persona.cpp" />
     <ClCompile Include="Prueba.cpp" />
   </ItemGroup>
